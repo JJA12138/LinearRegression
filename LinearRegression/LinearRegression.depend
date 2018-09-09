@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1536461358 source:e:\cpp_project\linearregression\main.cpp
+	<iostream>
+	<matrix.h>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<LinearRegression.h>
+
+1536461735 e:\cpp_project\linearregression\include\matrix.h
+	<string>
+
+1536462259 source:e:\cpp_project\linearregression\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<string>
+
+1536460047 source:e:\cpp_project\linearregression\src\linearregression.cpp
+	"LinearRegression.h"
+	<matrix.h>
+	<iostream>
+
+1536459827 e:\cpp_project\linearregression\include\linearregression.h
+	<matrix.h>
+
